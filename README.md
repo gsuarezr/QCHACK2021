@@ -14,7 +14,7 @@ Saying all of those rule, it is time to play the game directly. We can divide th
 1.	Entry Phase:- In this phase, we will see a screen a like below, which we will provide us three options to choose from. These options will lead us to different difficulty states.
  
  
-![](screen1.png)
+![](screen1.PNG)
 
 For simplicity we can choose the option 1, which is Easy. Now we can move onto the next phase.
 2.	Letter guessing:- Letter guessing phase will have a screen that will prompt you feed in letter of your choice. So, please input any letter that comes to your mind. We will input the letter ‘e’, which stands for Entanglement. 
