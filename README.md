@@ -21,11 +21,11 @@ For simplicity we can choose the option 1, which is Easy. Now we can move onto t
  ![](screen2.PNG)
 
 3.	Quantum Gate Selecting Phase: - As you know from the above section, that if the guessed letter is incorrect, then you have to apply any quantum gate of your choice. The gates, which you can apply is the below ones,
- ![](screen3.PNG)
+ ![](screen3.png)
 
 4.	Qubit Choosing Phase: - After choosing the quantum gate, please choose the qubit of your choice, which can be either 0 or 1. 
 
- ![](screen4.PNG)
+ ![](screen4.png)
 
 If the probability of the state 11 is non zero, then we can have another chance of feeding in the letter.
 5.	Next Turn Phase: - You have a next turn now, and try doing the steps from the Letter Guessing Phase again. Save the cat.
