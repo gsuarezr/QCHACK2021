@@ -24,7 +24,6 @@ d)	Unfortunately, if the probability of state 11 is present, then we will have t
 Saying all of those rule, it is time to play the game directly. We can divide the games into multiple phases, and we will go through the phases one-by-one,
 1.	Entry Phase:- In this phase, we will see a screen a like below, which we will provide us three options to choose from. These options will lead us to different difficulty states.
  
- 
 ![](screen1.PNG)
 
 For simplicity we can choose the option 1, which is Easy. Now we can move onto the next phase.
