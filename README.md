@@ -2,6 +2,15 @@
 
 **RESCUE SCHRODINGER’S CAT**
 
+To install the game run the command 
+
+conda env create -f environment.yml
+
+To run it simply type 
+
+conda activate qchack
+python Hangman.py
+
 Welcome to the Quantum game of Rescue Schrodinger’s Cat, where you will have a chance to save the cat of world renowned scientist Schrodinger. The probability will be your best friend to save the cat from death. Let us look into the rules of the game,
 Rules:-
 a)	To play this funny game, you have to choose the difficulty level first. There will be 3 difficulty levels, from easy to hard via medium. Just choose the one you are most confident of.
@@ -35,9 +44,10 @@ If the probability of the state 11 is non zero, then we can have another chance 
  ![](screen5.png)
 
 
-Please keep in mind that if the probability of the state 11 is more than 40%, then the cat will die for sure.
+Please keep in mind that if the probability of the state 11 is zero, then the cat will die for sure.
 
-The youngsters who made the project successful are – 
+The youngsters who made the project successful are:
+
 1.    Gerardo Suarez
 2.    Ming-Tsung Wu
 3.    Deb Prakash Chatterjee
@@ -45,4 +55,4 @@ The youngsters who made the project successful are –
 5.    Yen-Chen Wu
 
 
-We would like to credit Hsuan Pai for the design 
+We would like to credit Hsuan Pai for the design of the cats 
