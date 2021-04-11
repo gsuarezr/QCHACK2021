@@ -47,6 +47,7 @@ If the probability of state 11 is non-zero, then we can have another chance of f
 Next Turn Phase: - You have the next turn now, and try doing the steps from the Letter Guessing Phase again, We will show you the current circuit and associated probabilities. Save the cat.
 
  ![](screen5.png)
+ 
 
 
 Please keep in mind that if the probability of the state 11 is zero, then the cat will die for sure.
