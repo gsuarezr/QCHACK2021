@@ -19,4 +19,14 @@ Saying all of those rule, it is time to play the game directly. We can divide th
 For simplicity we can choose the option 1, which is Easy. Now we can move onto the next phase.
 2.	Letter guessing:- Letter guessing phase will have a screen that will prompt you feed in letter of your choice. So, please input any letter that comes to your mind. We will input the letter ‘e’, which stands for Entanglement. 
  
-3.	
+3.	Quantum Gate Selecting Phase: - As you know from the above section, that if the guessed letter is incorrect, then you have to apply any quantum gate of your choice. The gates, which you can apply is the below ones,
+
+4.	Qubit Choosing Phase: - After choosing the quantum gate, please choose the qubit of your choice, which can be either 0 or 1. 
+
+
+If the probability of the state 11 is more than 40%, then we can have another chance of feeding in the letter.
+5.	Next Turn Phase: - You have a next turn now, and try doing the steps from the Letter Guessing Phase again. It’s your choice.
+
+
+Please keep in mind that if the probability of the state 11 is more than 40%, then the cat will die for sure.
+
