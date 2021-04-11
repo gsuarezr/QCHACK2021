@@ -46,7 +46,7 @@ If the probability of the state 11 is non zero, then we can have another chance 
  ![](screen5.png)
 
 
-Please keep in mind that if the probability of the state 11 is zero, then the cat will die for sure.
+Please keep in mind that if the probability of the state 11 is zero, then the cat will die for sure. We believe that this game will keep you in love with Quantum computing, and can change the way think about gaming.
 
 The youngsters who made the project successful are:
 
