@@ -58,4 +58,3 @@ The youngsters who made the project successful are:
 
 
 We would like to credit Hsuan Pai for the design of the cats 
-We believe that this game will keep you in love with Quantum computing, and can change the way think about gaming.
