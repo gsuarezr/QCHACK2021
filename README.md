@@ -8,7 +8,7 @@ conda env create -f environment.yml
 
 **To run it simply type**
 
-conda activate qchack
+conda activate qchack<br/>
 python Hangman.py
 
 **Instructions:**
