@@ -2,11 +2,11 @@
 
 **RESCUE SCHRODINGER’S CAT**
 
-**To install the game run the command **
+**To install the game run the command**
 
 conda env create -f environment.yml
 
-**To run it simply type **
+**To run it simply type**
 
 conda activate qchack
 python Hangman.py
