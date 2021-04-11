@@ -2,15 +2,16 @@
 
 **RESCUE SCHRODINGER’S CAT**
 
-To install the game run the command 
+**To install the game run the command**
 
 conda env create -f environment.yml
 
-To run it simply type 
+**To run it simply type **
 
 conda activate qchack
 python Hangman.py
 
+**Instructions:**
 Welcome to the Quantum game of Rescue Schrodinger’s Cat, where you will have a chance to save the cat of world-renowned scientist Schrodinger. The probability will be your best friend to save the cat from death. Let us look into the rules of the game,
 Rules:-
 a)	To play this funny game, you have to choose the difficulty level first. There will be 3 difficulty levels, from easy to hard via medium. Just choose the one you are most confident of.
