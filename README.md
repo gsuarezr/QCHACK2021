@@ -6,7 +6,7 @@
 
 conda env create -f environment.yml
 
-**To run it simply type**
+**To run it simply type **
 
 conda activate qchack<br/>
 python Hangman.py
@@ -54,6 +54,6 @@ The youngsters who made the project successful are:
 3.    Deb Prakash Chatterjee
 4.    Sarang Brahme
 5.    Yen-Chen Wu
-
+6.    Hsuan Pai (Illustration)
 
 We would like to credit Hsuan Pai for the design of the cats 
