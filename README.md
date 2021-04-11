@@ -14,7 +14,8 @@ python Hangman.py
 **Video**
 
 A video of the game can be seen in https://youtu.be/pqP2NNbnPZA <br/>
-**Instructions:**
+
+**Instructions:**<br/>
 Welcome to the Quantum game of Rescue Schrodinger’s Cat, where you will have a chance to save the cat of world-renowned scientist Schrodinger. The probability will be your best friend to save the cat from death. Let us look into the rules of the game,
 Rules:-
 a)	To play this funny game, you have to choose the difficulty level first. There will be 3 difficulty levels, from easy to hard via medium. Just choose the one you are most confident of.
