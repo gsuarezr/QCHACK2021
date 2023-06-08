@@ -1,5 +1,8 @@
 # QCHACK2021
 
+
+## This project won 2nd place in the IBM creative challenge https://www.quantumcoalition.io/qc-hack-2021
+
 **RESCUE SCHRODINGER’S CAT**
 
 **To install the game run the command**
